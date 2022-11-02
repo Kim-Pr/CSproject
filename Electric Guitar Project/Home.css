@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #0c085c;
+}
+
+.nav-item {
+    padding: 1em;
+}
