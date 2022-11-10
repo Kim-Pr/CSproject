@@ -12,7 +12,12 @@
 body {
     background: #333;
 }
-
+.leftside_images {
+    float: left;
+    width: 250px;
+    margin-right: 30px;
+    border: 1px blue solid;
+}
 
 *,
 *:before,
